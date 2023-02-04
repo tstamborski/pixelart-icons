@@ -4,6 +4,7 @@ Small set of totally free and royalty free pixel art icons.
 If you want them (you can find more pretty icons here) feel free to simply take them and use in your programs - credits are not necessary.
 ## Examples
 Here are examples of few icons from this set:
+
 ![](png/2nd-calc32.png)
 ![](png/brush32.png)
 ![](png/cdburner32.png)
