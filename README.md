@@ -6,8 +6,10 @@ If you want them (you can find more pretty icons here) feel free to simply take 
 Here are examples of few icons from this set:
 
 ![](png/2nd-calc32.png)
+![](png/amiga32.png)
 ![](png/brush32.png)
 ![](png/cdburner32.png)
+![](png/cherries32.png)
 ![](png/cmd32.png)
 ![](png/commodore-tool32.png)
 ![](png/copy32.png)
