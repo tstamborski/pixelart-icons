@@ -22,6 +22,7 @@ Here are examples of few icons from this set:
 ![](png/exit32.png)
 ![](png/explosive32.png)
 ![](png/eyes32.png)
+![](png/film32.png)
 ![](png/ghost32.png)
 ![](png/guitar32.png)
 ![](png/katana32.png)
