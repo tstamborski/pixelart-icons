@@ -1,6 +1,10 @@
 #!/bin/bash
 
-aseprite="C:/Program Files (x86)/Steam/steamapps/common/Aseprite/aseprite.exe"
+if [[ "$OSTYPE" == "linux-gnu" ]]; then
+	aseprite="$HOME/.steam/steam/steamapps/common/Aseprite/aseprite"
+else
+	aseprite="C:/Program Files (x86)/Steam/steamapps/common/Aseprite/aseprite.exe"
+fi
 
 for file in aseprite/*.aseprite ; do
 	name="${file##*/}"
