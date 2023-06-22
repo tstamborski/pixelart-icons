@@ -14,3 +14,4 @@ for file in aseprite/*.aseprite ; do
 	"$aseprite" -b $file --save-as png/$basename.png
 done
 
+echo "Done."
