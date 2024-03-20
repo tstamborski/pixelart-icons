@@ -1,4 +1,4 @@
-# ![](https://github.com/tstamborski/pixelart-icons/blob/main/png/portrait64.png) Pixel-Art Icons
+# ![](https://github.com/tstamborski/pixelart-icons/blob/main/png/cherries32.png) Pixel-Art Icons
 Small (but growing!) set of totally free and royalty free pixel art icons. 
 
 ## Overview
