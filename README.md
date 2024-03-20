@@ -5,7 +5,7 @@ Small (but growing!) set of totally free and royalty free pixel art icons.
 If you want them (you can find more pretty icons here) feel free to simply take them and use in your programs - credits are not necessary. __Latest version for download is [*here*](https://github.com/tstamborski/pixelart-icons/releases/download/v2024.03/pixelart-icons-2024-03.zip).__
 
 ## Examples
-Here are examples of few icons from this set:
+Here are examples of a few icons from this set:
 
 ![](png/2nd-calc32.png)
 ![](png/ace32.png)
