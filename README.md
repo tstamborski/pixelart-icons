@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="xVDzr3kWgW5BCMGYiag_EY-gz5lhpC25Nm3xQZgtjG8" />
+
 # ![](https://github.com/tstamborski/pixelart-icons/blob/main/png/cherries32.png) Pixel-Art Icons
 Small (but growing!) set of totally free and royalty free pixel art icons. 
 
