@@ -40,7 +40,6 @@ Here are examples of a few icons from this set:
 ![](png/guitar32.png)
 ![](png/haiku32.png)
 ![](png/info32.png)
-
 ![](png/katana32.png)
 ![](png/laboratory32.png)
 ![](png/letter-open32.png)
